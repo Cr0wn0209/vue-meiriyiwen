@@ -47,7 +47,6 @@ module.exports = {
     }
   },
   devServer: {
-    host: '192.168.3.5',
     historyApiFallback: true,
     noInfo: true
   },
