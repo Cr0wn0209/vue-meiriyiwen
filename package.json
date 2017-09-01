@@ -2,7 +2,7 @@
   "name": "meiriyiwen",
   "description": "learn vue",
   "version": "1.0.0",
-  "author": "xbh",
+  "author": "cr0wn0209",
   "private": true,
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
