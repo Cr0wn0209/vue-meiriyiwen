@@ -14,6 +14,9 @@ github项目地址：[点我访问](https://github.com/Cr0wn0209/vue-meiriyiwen)
 ## Build Setup
 
 ``` bash
+# clone
+git clone https://github.com/Cr0wn0209/vue-meiriyiwen.git
+
 # install dependencies
 npm install
 
