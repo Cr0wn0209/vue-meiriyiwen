@@ -48,6 +48,16 @@ npm run build
 ## 预览
 
 首先我先参考了现有的每日一文APP的一些设计，再次基础上加入了自己的一些想法，主要是入门vue的一些基础的功能，现在围绕api的功能都实现了，之后准备加入官方app里的收藏文章功能，有很多地方我觉得实现方式不太好，对vue的掌握还是太浅，
+
+###### 动图 1
+![动图 1](./res/meiriyiwen-1.gif)
+
+###### 动图 2
+![动图 2](./res/meiriyiwen-2.gif)
+
+###### 动图 3
+![动图 3](./res/meiriyiwen-3.gif)
+
 ###### 首页-今日文章
 ![首页-今日文章](./res/meiriyiwen-index.png)
 
@@ -56,3 +66,5 @@ npm run build
 
 ###### 菜单
 ![菜单](./res/meiriyiwen-sidemenu-2.png)
+
+个人学习用，请勿商用，求个小星星鼓励下啦~
