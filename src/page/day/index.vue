@@ -71,11 +71,10 @@ export default {
       document.body.scrollTop = 0;
       this.loadingFlag = true;
       this.loaded = false;
-      //this.reloading = true;
+      this.date = this.$route.params.date;
+      this.reloading = true;
       setTimeout(() => {
-        //this.$router.replace(this.$route.path);
-        window.location.reload();
-        //this.reloading = false;
+        this.reloading = false;
         this.loaded = true;
       },250)
     }
