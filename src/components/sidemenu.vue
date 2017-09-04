@@ -131,7 +131,7 @@ export default {
     display: block;
     position: absolute;
     background-color: transparent;
-    border: 1px solid rgb(195, 195, 195);
+    border: 1px solid white;
     border-radius: 40%;
     box-sizing: border-box;
     height: 65%;
@@ -139,6 +139,8 @@ export default {
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
+    box-shadow: 0 0 15px -2px rgba(0, 0, 0, 0.6),
+                inset 0 0 10px -2px rgba(0, 0, 0, 0.6);
   }
   .menuButtons > p {
     width: 100%;

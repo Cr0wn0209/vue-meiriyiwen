@@ -4,8 +4,8 @@ var webpack = require('webpack')
 module.exports = {
   entry: './src/main.js',
   output: {
-    path: path.resolve(__dirname, './dist'),    // run dev 修改成'/dist'
-    publicPath: './dist/',                      // run dev 修改成'/dist/'
+    path: path.resolve(__dirname, './dist'),    // run dev 修改成'/dist' run build 修改成 './dist'
+    publicPath: './dist/',                      // run dev 修改成'/dist/' run build 修改成 './dist/'
     filename: 'build.js'
   },
   module: {
